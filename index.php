@@ -1,4 +1,6 @@
 <doctype html>
     <html lang="es-mx">
-     <head></head>
+     <head>
+        <title><title>
+     </head>
         </html>
